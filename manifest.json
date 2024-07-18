@@ -1,0 +1,11 @@
+{
+	"id": "TaggedLines_organizer",
+	"name": "TaggedLines organizer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Organize your TaggedLines like never before",
+	"author": "Valentin Pelletier",
+	"authorUrl": "https://infiniterollo.com",
+	"fundingUrl": "https://buymeacoffee.com/vpt87",
+	"isDesktopOnly": false
+}
